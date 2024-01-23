@@ -1,0 +1,1 @@
+from .cfg import IMAGE_PATH, AUDIO_PATH, FONT_PATH, HIGHEST_SCORE_RECORD_FILEPATH, FPS, screen_size, background_color
